@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Limhs",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/Profile.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Game Client developer",
     bio: "I develop Game Client using unreal C++ and unity C#.",
     email: "Limhs991013@gmail.com",
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Lim.dev-log",
-    description: "welcome to morethan-log!",
+    description: "welcome to Lim.dev-log!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
