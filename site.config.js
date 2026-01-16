@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Game Client developer",
     bio: "I develop Game Client using unreal C++ and unity C#.",
     email: "Limhs991013@gmail.com",
-    github: "Limhs",
+    github: "dovewith999",
     linkedin: "",
     instagram: "",
   },
